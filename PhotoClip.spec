@@ -1,12 +1,12 @@
 Summary:	Simple image viewer for GNUstep
 Summary(pl):	Prosta przegl±darka obrazków dla ¶rodowiska GNUstep
 Name:		PhotoClip
-Version:	0.2.2
-Release:	3
+Version:	0.2.3
+Release:	1
 License:	GPL
 Group:		X11/Applications/Graphics
 Source0:	http://www.vaisburd.net/PhotoClip/%{name}-%{version}.tar.gz
-# Source0-md5:	b4af33ab977cafb352b68005183174d9
+# Source0-md5:	9d0b652f1db8a7d0a73183bf45e48420
 URL:		http://www.vaisburd.net/PhotoClip/
 BuildRequires:	gnustep-gui-devel >= 0.8.7
 Requires:	gnustep-gui >= 0.8.7
