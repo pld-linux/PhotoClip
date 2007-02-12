@@ -1,5 +1,5 @@
 Summary:	Simple image viewer for GNUstep
-Summary(pl.UTF-8):   Prosta przeglądarka obrazków dla środowiska GNUstep
+Summary(pl.UTF-8):	Prosta przeglądarka obrazków dla środowiska GNUstep
 Name:		PhotoClip
 Version:	0.2.3
 Release:	1
